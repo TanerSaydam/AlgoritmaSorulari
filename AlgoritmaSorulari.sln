@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.EslesenIlkIndexiBul", "9.EslesenIlkIndexiBul\9.EslesenIlkIndexiBul.csproj", "{1266B6AB-BB12-4966-B989-96CA30E32DC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YeslestigiKonumuAra", "YeslestigiKonumuAra\YeslestigiKonumuAra.csproj", "{455F0146-0707-4255-B2A6-56571F05FA4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.YeslestigiKonumuAra", "YeslestigiKonumuAra\10.YeslestigiKonumuAra.csproj", "{455F0146-0707-4255-B2A6-56571F05FA4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
