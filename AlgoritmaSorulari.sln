@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.YeslestigiKonumuAra", "Y
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.SonKelimeninUzunlugu", "11.SonKelimeninUzunlugu\11.SonKelimeninUzunlugu.csproj", "{709A13F2-5547-4511-AB3A-F17EA087B8F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. ArtiBir", "12. ArtiBir\12. ArtiBir.csproj", "{649FA086-35D8-41C0-A4DE-38DC11F56F50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.ArtiBir", "12. ArtiBir\12.ArtiBir.csproj", "{649FA086-35D8-41C0-A4DE-38DC11F56F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.BinaryEkle", "13.BinaryEkle\13.BinaryEkle.csproj", "{10B07212-F34E-45EB-A088-199BCAD33E32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{649FA086-35D8-41C0-A4DE-38DC11F56F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{649FA086-35D8-41C0-A4DE-38DC11F56F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{649FA086-35D8-41C0-A4DE-38DC11F56F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B07212-F34E-45EB-A088-199BCAD33E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B07212-F34E-45EB-A088-199BCAD33E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B07212-F34E-45EB-A088-199BCAD33E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B07212-F34E-45EB-A088-199BCAD33E32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
