@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.ArtiBir", "12. ArtiBir\1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.BinaryEkle", "13.BinaryEkle\13.BinaryEkle.csproj", "{10B07212-F34E-45EB-A088-199BCAD33E32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.KarakokunuBul", "14.KarakokunuBul\14.KarakokunuBul.csproj", "{4A7630A1-7178-464D-8277-2956E2D87B61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.KarekokunuBul", "14.KarakokunuBul\14.KarekokunuBul.csproj", "{4A7630A1-7178-464D-8277-2956E2D87B61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
