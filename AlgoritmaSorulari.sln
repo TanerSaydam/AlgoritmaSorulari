@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.ArtiBir", "12. ArtiBir\1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.BinaryEkle", "13.BinaryEkle\13.BinaryEkle.csproj", "{10B07212-F34E-45EB-A088-199BCAD33E32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.KarekokunuBul", "14.KarakokunuBul\14.KarekokunuBul.csproj", "{4A7630A1-7178-464D-8277-2956E2D87B61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.KarekokunuBul", "14.KarakokunuBul\14.KarekokunuBul.csproj", "{4A7630A1-7178-464D-8277-2956E2D87B61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.MerdivenCikma", "15.MerdivenCikma\15.MerdivenCikma.csproj", "{805481BB-8F88-428B-8A1C-9CFAE62B12B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{4A7630A1-7178-464D-8277-2956E2D87B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A7630A1-7178-464D-8277-2956E2D87B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A7630A1-7178-464D-8277-2956E2D87B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{805481BB-8F88-428B-8A1C-9CFAE62B12B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805481BB-8F88-428B-8A1C-9CFAE62B12B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805481BB-8F88-428B-8A1C-9CFAE62B12B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805481BB-8F88-428B-8A1C-9CFAE62B12B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
