@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.MerdivenCikma", "15.Merd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.SiraliListedeTekrarEdenleriSil", "16.SiraliListedeTekrarEdenleriSil\16.SiraliListedeTekrarEdenleriSil.csproj", "{FF367C4A-2048-4EA7-8743-2B82DEA68711}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.BirlestirVeSirala", "17.BirlestirVeSirala\17.BirlestirVeSirala.csproj", "{FB490FAE-C77B-4D0B-B7A6-9FB514DC306E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{FF367C4A-2048-4EA7-8743-2B82DEA68711}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF367C4A-2048-4EA7-8743-2B82DEA68711}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF367C4A-2048-4EA7-8743-2B82DEA68711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB490FAE-C77B-4D0B-B7A6-9FB514DC306E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB490FAE-C77B-4D0B-B7A6-9FB514DC306E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB490FAE-C77B-4D0B-B7A6-9FB514DC306E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB490FAE-C77B-4D0B-B7A6-9FB514DC306E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
